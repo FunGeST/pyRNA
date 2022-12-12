@@ -6,7 +6,13 @@ It can either :
 
 1) Output a dataframe of a locus from a bam (A='reads_to_dataframe')
 2) Output only the read of that said locus (A='write_reads')
-3) Search for a splicing anomaly at any given position. (A='splicing_analysis')
+3) Search for a splicing anomaly at any given position. (A='splicing_analysis') It will compute and print the following scores : 
+
+The usage of the novel junction created by the abnormal splicing event for AG (Acceptor Gain) / AL (Acceptor Loss) / DG (Donor Gain) / DL (Donor Loss). 
+
+Any score is computed as such : 
+
+$ DS = \frac{#Abnormal~reads}{#Total~of~reads}$
 
 Principle : 
 
