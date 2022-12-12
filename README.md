@@ -12,7 +12,7 @@ The usage of the novel junction created by the abnormal splicing event for AG (A
 
 Any score is computed as such : 
 
-$$DS = \frac{#Abnormal~reads}{#Total~of~reads}$$
+$$DS = \frac{\#Abnormal~reads}{\#Total~of~reads}$$
 
 Principle : 
 
