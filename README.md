@@ -1,6 +1,6 @@
 # pyRNA
 
-pyRNA is a small librairy aimed to transform pysam files into pandas dataframe.
+pyRNA is a small librairy aimed to transform pysam files into pandas dataframe. It was built while validating predicted splice variants using paired RNA-seq data. You can find the article here : https://doi.org/10.1101/2022.10.14.512264. 
 
 It can either : 
 
@@ -28,3 +28,13 @@ python pyRNA.py --pathM ./example -S test.bam -A reads_to_dataframe -C chr11 -P 
 python pyRNA.py --pathM ./example -S test.bam -A splicing_analysis -E AL -G CBL -C chr11 -P 119090189 -L 100 -R grch38
 
 It will be updated very soon.
+
+# Validation demo
+
+You can run a validation on a few examples with sliced paired RNA-seq data. 
+
+To run it : python Validation_full_script.py test.xlsx
+
+NB : I had to tweak a bit my pipeline to make it work with custom sliced control, but I have commented what to change to use it with your own data. 
+
+
