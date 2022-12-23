@@ -681,7 +681,9 @@ def uni_thread_validation(df, p, samples_control_100_POT, samples_control_100_PO
     return(None)
 
 
-
+########################
+#Modify here to use your own data. 
+########################
 class multi_threaded_validation(Thread):
     def __init__(self, df, p):
         Thread.__init__(self)
@@ -720,7 +722,7 @@ def main(name):
 
 
 ########################
-#POT  CREATOR
+#POT  CREATOR - Modify here to use your own data. 
 ########################
 ref_projs = pd.read_excel("Splice_mutations_in_TCGA_samples_with_bam_files.xlsx", sep="\t")['sample'].drop_duplicates()
 ref_projs = ref_projs.reset_index()
