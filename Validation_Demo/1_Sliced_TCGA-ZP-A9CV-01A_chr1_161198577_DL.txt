@@ -1,0 +1,193 @@
+strand = +
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+----||--||----
+
+ Validated 
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+TTTA||GA||G000
+TTTA||GA||GG00
+TTTA||GA||GG00
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||GGTG
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---
+TTTA||GA||G---

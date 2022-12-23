@@ -1,0 +1,380 @@
+strand = -
+
+-----||-C||A00
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+-----||--||---
+ 
+ Validated 
+
+
+-----||-C||AGG
+-----||--||---
+ 
+ Validated 
+
+
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+ACTCA||TC||AGG
+0CTCA||TC||AGG
+00TCA||TC||AGG
+00TCA||TC||AGG
+-
+-
+-
+-
