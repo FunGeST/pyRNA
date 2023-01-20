@@ -54,10 +54,8 @@ The example folder contains a toy bam file to test the tool. Below are a few exa
 
 # Validation demo
 
-You can run a validation on a few examples with sliced paired RNA-seq data. 
+The 'Validation_Demo' folder containing a demo script to validate a few mutations predicted to impact splicing on matched RNA-seq data. The folder also contains sliced RNA-seq bam files containing only reads around the positions of interest that are necessary to run the script. Use the following command to run the demo:
+> python Validation_full_script.py test.xlsx
 
-To run it : python Validation_full_script.py test.xlsx
-
-NB : I had to tweak a bit my pipeline to make it work with custom sliced control, but I have commented what to change to use it with your own data. 
 
 
