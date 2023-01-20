@@ -30,7 +30,7 @@ pyRNA library allows to mine RNA-seq data in Python. Technically, it converts py
 
 Depending on the selected action (-A), 3 different outputs will be produced:
 
-`-A reads_to_dataframe` will generate a dataframe comprising an extraction of the bam file restricted to reads overlapping the specified region. The output file will include the reads but also other informations from the bam file like CIGAR string, MAPQ score etc.
+`-A reads_to_dataframe` will generate a dataframe comprising an extraction of the bam file restricted to reads overlapping the specified region. The output file will include the reads but also other fields from the bam file like CIGAR string, MAPQ score etc.
 
 `-A write_reads` will generate a dataframe comprising only the sequences of reads overlapping the specified region. This file can be easily explored manually to spot abnormal reads.
 
