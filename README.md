@@ -34,7 +34,7 @@ Depending on the selected action (-A), 3 different outputs will be produced:
 
 `-A write_reads` will generate a dataframe comprising only the sequences of reads overlapping the specified region. This file can be easily explored visually to spot abnormal reads.
 
-`-A splicing_analysis` will compute and print the number of abnormal reads corroborating the predicted splicing alteration (specified in -E), the total number of reads at the locus and the proportion of abnormal reads.
+`-A splicing_analysis` will compute and print the number of abnormal reads supporting the predicted splicing alteration (specified in -E), the total number of reads at the locus and the proportion of abnormal reads.
 
 
 ## Examples
