@@ -38,7 +38,7 @@ Depending on the selected action (-A), 3 different outputs will be produced:
 
 
 ## Examples
-The example folder contains a toy bam file to test the tool. Below are a few example command lines.
+The **example** folder contains a toy bam file to test the tool. Below are a few example command lines.
 
 * Extract a portion of a bam file corresponding to a region spanning 100 bases before and after chr11:119090189:
 > python pyRNA.py --pathM ./example -S test.bam -A reads_to_dataframe -C chr11 -P 119090189 -L 100 -R grch38
@@ -54,7 +54,7 @@ The example folder contains a toy bam file to test the tool. Below are a few exa
 
 # Validation demo
 
-The 'Validation_Demo' folder containing a demo script to validate a few mutations predicted to impact splicing on matched RNA-seq data. The folder also contains sliced RNA-seq bam files containing only reads around the positions of interest that are necessary to run the script. Use the following command to run the demo:
+The **Validation_Demo** folder containing a demo script to validate a few mutations predicted to impact splicing on matched RNA-seq data. The folder also contains sliced RNA-seq bam files containing only reads around the positions of interest that are necessary to run the script. Use the following command to run the demo:
 > python Validation_full_script.py test.xlsx
 
 
