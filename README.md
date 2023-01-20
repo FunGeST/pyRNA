@@ -38,14 +38,15 @@ Depending on the selected action (-A), 3 different outputs will be produced:
 
 
 ## Examples
+The example folder contains a toy bam file to test the tool. Below are a few example command lines.
 
-Extract a portion of a bam file corresponding to a region spanning 100 bases before and after chr11:119090189:
+* Extract a portion of a bam file corresponding to a region spanning 100 bases before and after chr11:119090189:
 > python pyRNA.py --pathM ./example -S test.bam -A reads_to_dataframe -C chr11 -P 119090189 -L 100 -R grch38
 
-Same as above but will output a data frame comprising only read sequences:
+* Extract reads overlapping a region spanning 100 bases before and after chr11:119090189 and output them in a data frame:
 > python pyRNA.py --pathM ./example -S test.bam -A write_reads -C chr11 -P 119090189 -L 100 -R grch38
 
-Compute the number and proportion of reads supporting a loss of splicing acceptor at position chr11:119090189 in HMBS gene:
+* Compute the number and proportion of reads supporting a loss of splicing acceptor at position chr11:119090189 in HMBS gene:
 > python pyRNA.py --pathM ./example -S test.bam -A splicing_analysis -E AL -G HMBS -C chr11 -P 119090189 -L 100 -R grch38
 
 
