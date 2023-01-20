@@ -54,7 +54,7 @@ The **example** folder contains a toy bam file to test the tool. Below are a few
 
 # Validation demo
 
-The **Validation_Demo** folder containing a demo script to validate a few mutations predicted to impact splicing on matched RNA-seq data. The folder also contains sliced RNA-seq bam files containing only reads around the positions of interest that are necessary to run the script. Use the following command to run the demo:
+The **Validation_Demo** folder contains a demo script to validate a few mutations predicted to impact splicing on matched RNA-seq data. The folder also contains sliced RNA-seq bam files containing only reads around the positions of interest that are necessary to run the script. Use the following command to run the demo:
 > python Validation_full_script.py test.xlsx
 
 
